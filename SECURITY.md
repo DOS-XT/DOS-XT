@@ -1,21 +1,40 @@
 # Security Policy
 
-## Supported Versions
+## Scope
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+This policy applies to repositories maintained under the DOS XT organization.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Reporting a Vulnerability
 
-## Reporting a Vulnerability
+If you discover a security issue affecting a DOS XT repository:
 
-Use this section to tell people how to report a vulnerability.
+Do not publicly disclose the issue.
+Report the issue privately through GitHub Security Advisories when available.
+Include sufficient detail to reproduce and validate the issue.
+Supported Repositories
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Security updates are applied to actively maintained DOS XT repositories.
+
+Current maintained repositories include:
+
+capos-v1-backend
+
+Additional repositories may be added as the DOS XT platform expands.
+
+Response Process
+
+Reported vulnerabilities will be reviewed and prioritized based on:
+
+Severity
+Reproducibility
+Potential impact
+Scope of exposure
+Repository Standards
+
+DOS XT repositories are expected to maintain:
+
+Principle-of-least-privilege access
+Secure credential handling
+Reproducible source control practices
+Controlled release processes
+Reviewable change history
