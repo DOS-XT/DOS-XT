@@ -1,6 +1,6 @@
-# DOS-XT
+# DOS XT
 
-Official maintainer account for the DOS-XT platform.
+Official maintainer account for the DOS XT platform.
 
 This account manages:
 - core repositories
