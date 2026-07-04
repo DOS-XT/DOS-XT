@@ -18,7 +18,7 @@ Security updates are applied to actively maintained DOS XT repositories.
 
 Current maintained repositories include:
 
-* capos-v1-backend
+* marginos-v1-backend
 
 Additional repositories may be added as the DOS XT platform expands.
 
