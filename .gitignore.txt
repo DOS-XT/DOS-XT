@@ -1,0 +1,31 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Supabase local and temporary files
+.supabase/
+supabase/.temp/
+supabase/.branches/
+
+# JavaScript dependencies and build output
+node_modules/
+dist/
+build/
+.next/
+.nuxt/
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
