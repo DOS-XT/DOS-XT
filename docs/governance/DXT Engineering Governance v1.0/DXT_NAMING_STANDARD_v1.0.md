@@ -142,19 +142,18 @@ out_
 
 # SQL Files
 
-Canonical filenames should describe exactly one object.
+Canonical SQL files are organized by object type rather than historical implementation workstream.
 
-Examples:
+Each canonical file should represent exactly one production object.
 
-CREATE_ui_margin_portfolio_summary.sql
+## Canonical filename format
 
-CREATE_op_transition_decision.sql
+Use the object name only:
 
-Avoid generic names such as:
-
-view.sql
-new.sql
-test.sql
+```text
+ui_margin_portfolio_summary.sql
+op_transition_decision.sql
+op_recommendation.sql
 
 ---
 
