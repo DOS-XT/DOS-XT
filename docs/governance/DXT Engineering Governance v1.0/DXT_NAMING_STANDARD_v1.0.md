@@ -253,6 +253,9 @@ Renaming production objects requires:
 - repository update
 - change documentation
 
+```md
+Renaming a canonical SQL file does not rename the production object; repository filenames must continue to match the actual object name.
+
 ---
 
 # Freeze
